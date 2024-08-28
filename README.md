@@ -1,4 +1,4 @@
 # deneme
 
-notebook nasil deploy edilmek, tekrar düzenlenmeli
+notebook nasil deploy edilmek isteniyorsa, tekrar düzenlenmeli
 degisikliklere göre app.py dosyasi tekrar düzenlenmeli
